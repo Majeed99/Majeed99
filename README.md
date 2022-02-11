@@ -31,8 +31,8 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   &emsp;
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-   &emsp;
-    <img alt="MongoDB" src="https://img.shields.io/badge/mongoDB-f2f2f2.svg?logo=mongoDB&logoColor=299f41"/>
+ &emsp;
+    <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-53c1de.svg?logo=react&logoColor=white"/>
    &emsp;
     <img alt="express" src="https://img.shields.io/badge/Express-f2f2f2.svg?logo=Express&logoColor=black"/>
    &emsp;
@@ -40,7 +40,7 @@
    &emsp;
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-01b7d6.svg?logo=Tailwind%20CSS&logoColor=white"/>
    &emsp;
-    <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-53c1de.svg?logo=react&logoColor=white"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/mongoDB-f2f2f2.svg?logo=mongoDB&logoColor=299f41"/>
    &emsp;
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-564d80.svg?logo=heroku&logoColor=white"/>
   &emsp;
