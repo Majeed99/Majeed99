@@ -9,7 +9,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as Full Stack Developer. 
-- 📃 Take a look at my experiences [Here](www.linkedin.com/in/abdulmajeed-alduaifi)
+- 📃 Take a look at my experiences [Here](https://www.linkedin.com/in/abdulmajeed-alduaifi/)
 - 💬 Ask me about JavaScript, React, Node, Express, MongoDB, Heroku.
 - 📫 Email me at [abdulmajeed.alduaifi@gmail.com](mailto:abdulmajeed.alduaifi@gmail.com).
 
