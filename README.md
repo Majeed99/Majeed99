@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Software+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<hr/>
+
 
 **About Me!**
 
@@ -51,7 +51,7 @@
     <img alt="APIs" src="https://img.shields.io/badge/APIs-202020.svg?logo=apis&logoColor=white"/>
 </p>
 
-
+<hr/>
 
  ### 💻 GitHub Profile Stats
   <br />
