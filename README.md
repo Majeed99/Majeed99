@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Abdulmajeed Alduaifi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="center">Hi , I'm Abdulmajeed Alduaifi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 
 
- <h1>💻 GitHub Profile Stats</h1>
+ ###💻 GitHub Profile Stats
   <br />
   <p align="center">
    <img  alt="Majeed99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Majeed99&show_icons=true&count_private=true&theme=dark" height="192px"/>
