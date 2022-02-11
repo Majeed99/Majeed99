@@ -43,9 +43,6 @@
     <br />
 
   </p>
-<p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 
 <!--
 **Majeed99/Majeed99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
