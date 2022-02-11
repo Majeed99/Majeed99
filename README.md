@@ -32,7 +32,7 @@
 
 
 
- ###💻 GitHub Profile Stats
+ ### 💻 GitHub Profile Stats
   <br />
   <p align="center">
    <img  alt="Majeed99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Majeed99&show_icons=true&count_private=true&theme=dark" height="192px"/>
