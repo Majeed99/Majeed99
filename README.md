@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<img src="https://komarev.com/ghpvc/?username=Majeed99&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 <!--
 **Majeed99/Majeed99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
