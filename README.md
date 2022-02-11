@@ -46,6 +46,10 @@
   </a>
    &emsp;
   <a href="">
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-01b7d6.svg?logo=Tailwind%20CSS&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="">
     <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-53c1de.svg?logo=react&logoColor=white"/>
   </a>
    &emsp;
@@ -62,9 +66,10 @@
   </a>
  &emsp;
   <a href="">
-    <img alt="Trello" src="https://img.shields.io/badge/APIs-202020.svg?logo=apis&logoColor=white"/>
+    <img alt="APIs" src="https://img.shields.io/badge/APIs-202020.svg?logo=apis&logoColor=white"/>
   </a>
   
+   
 </p>
 
 
