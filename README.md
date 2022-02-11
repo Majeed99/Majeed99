@@ -37,9 +37,6 @@
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Majeed99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Majeed99&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-	  
-  &nbsp;
-	
 	  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majeed99" alt="Majeed99's github stats"/>
   <br/>
 
