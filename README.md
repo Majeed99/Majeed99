@@ -35,12 +35,10 @@
  <h1>💻 GitHub Profile Stats</h1>
   <br />
   <p align="center">
-  &nbsp;
-   <img alt="Majeed99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Majeed99&show_icons=true&count_private=true&theme=dark" height="192px"/>
-   <br />
-  <br />
-  &nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majeed99&theme=dark" alt="Majeed99's github stats"/>
+   <img  alt="Majeed99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Majeed99&show_icons=true&count_private=true&theme=dark" height="192px"/>
+  
+ 
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majeed99&theme=dark" alt="Majeed99's github stats"/>
     <br />
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
