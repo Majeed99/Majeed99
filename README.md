@@ -19,8 +19,6 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
-
 <p align="left">  
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -34,6 +32,35 @@
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+   &emsp;
+  <a href="https://www.php.net/">
+    <img alt="MongoDB" src="https://img.shields.io/badge/mongoDb-f2f2f2.svg?logo=mongoDB&logoColor=299f41"/>
+  </a>
+   &emsp;
+  <a href="https://www.php.net/">
+    <img alt="express" src="https://img.shields.io/badge/Express-f2f2f2.svg?logo=Express&logoColor=black"/>
+  </a>
+   &emsp;
+  <a href="https://www.php.net/">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-6e10ea.svg?logo=bootstrap&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://www.php.net/">
+    <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-53c1de.svg?logo=react&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://www.php.net/">
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-564d80.svg?logo=heroku&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://www.php.net/">
+    <img alt="Trello" src="https://img.shields.io/badge/Trello-007cc5.svg?logo=trello&logoColor=white"/>
+  </a>
+ &emsp;
+  <a href="https://www.php.net/">
+    <img alt="Trello" src="https://img.shields.io/badge/APIs-202020.svg?logo=apis&logoColor=white"/>
+  </a>
+  
 </p>
 
 
