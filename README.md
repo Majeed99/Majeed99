@@ -39,7 +39,7 @@
    <br />
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majeed99&theme=dark" alt="Majeed99's github stats"/>
     <br />
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ <p> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
   </p>
 </details>
 
