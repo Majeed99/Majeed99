@@ -20,7 +20,7 @@
 ## 🛠️ My Skills
 
 <p align="center">  
-  https://img.shields.io/badge/HTML-e65100.svg?logo=HTML5&logoColor=w
+
  &emsp;
   <a href="" target="_blank"> 
      <img alt="html" src="https://img.shields.io/badge/HTML-e65100.svg?logo=HTML5&logoColor=white">
