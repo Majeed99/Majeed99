@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Abdulmajeed+Alduaifi;I'm+Full+Stack+Web+Developer;I'm+Software+Engineer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Majeed99&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 <!--
