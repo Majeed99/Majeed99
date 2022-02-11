@@ -32,7 +32,7 @@
   &emsp;
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
    &emsp;
-    <img alt="MongoDB" src="https://img.shields.io/badge/mongoDb-f2f2f2.svg?logo=mongoDB&logoColor=299f41"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/mongoDB-f2f2f2.svg?logo=mongoDB&logoColor=299f41"/>
    &emsp;
     <img alt="express" src="https://img.shields.io/badge/Express-f2f2f2.svg?logo=Express&logoColor=black"/>
    &emsp;
