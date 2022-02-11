@@ -14,7 +14,7 @@
 - 📫 Email me at [abdulmajeed.alduaifi@gmail.com](mailto:abdulmajeed.alduaifi@gmail.com).
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Majeed99&label=Profile%20views&color=0e75b6&style=flat-square" alt="views on github" /> </p>
+
 
 
 ## 🛠️ My Skills
@@ -50,6 +50,9 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   </p>
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Majeed99&label=Profile%20views&color=0e75b6&style=flat-square" alt="views on github" /> </p>
 
 <!--
 **Majeed99/Majeed99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
