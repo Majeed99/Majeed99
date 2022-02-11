@@ -28,51 +28,27 @@
   &emsp;
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
   &emsp;
-  <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
    &emsp;
-  <a href="">
     <img alt="MongoDB" src="https://img.shields.io/badge/mongoDb-f2f2f2.svg?logo=mongoDB&logoColor=299f41"/>
-  </a>
    &emsp;
-  <a href="">
     <img alt="express" src="https://img.shields.io/badge/Express-f2f2f2.svg?logo=Express&logoColor=black"/>
-  </a>
    &emsp;
-  <a href="">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-6e10ea.svg?logo=bootstrap&logoColor=white"/>
-  </a>
    &emsp;
-  <a href="">
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-01b7d6.svg?logo=Tailwind%20CSS&logoColor=white"/>
-  </a>
    &emsp;
-  <a href="">
     <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-53c1de.svg?logo=react&logoColor=white"/>
-  </a>
    &emsp;
-  <a href="">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-564d80.svg?logo=heroku&logoColor=white"/>
-  </a>
+<img alt="Heroku" src="https://img.shields.io/badge/Heroku-564d80.svg?logo=heroku&logoColor=white"/>
   &emsp;
-  <a href="">
-    <img alt="Gir" src="https://img.shields.io/badge/Git-f4511e.svg?logo=git&logoColor=white"/>
-  </a>
+<img alt="Gir" src="https://img.shields.io/badge/Git-f4511e.svg?logo=git&logoColor=white"/>
    &emsp;
-  <a href="">
     <img alt="Trello" src="https://img.shields.io/badge/Trello-007cc5.svg?logo=trello&logoColor=white"/>
-  </a>
  &emsp;
-  <a href="">
     <img alt="APIs" src="https://img.shields.io/badge/APIs-202020.svg?logo=apis&logoColor=white"/>
-  </a>
-  
-   
 </p>
 
 
