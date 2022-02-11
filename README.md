@@ -22,17 +22,17 @@
 <p align="center">  
 
  &emsp;
-  <a href="" target="_blank"> 
+  
      <img alt="html" src="https://img.shields.io/badge/HTML-e65100.svg?logo=HTML5&logoColor=white">
-   </a>
+
    &emsp;
-  <a href="" target="_blank"> 
+ 
      <img alt="CSS" src="https://img.shields.io/badge/CSS-0277bd.svg?logo=CSS3&logoColor=white">
-   </a>
+
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
+
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
